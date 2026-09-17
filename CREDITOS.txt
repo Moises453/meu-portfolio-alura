@@ -1,0 +1,13 @@
+Crystal Project icons
+
+Author: Everaldo Coelho (YellowIcon)
+License: GNU Lesser General Public License 2.1 or later
+
+Files included in this portfolio:
+- globe.png — https://commons.wikimedia.org/wiki/File:Crystal_Project_browser.png
+- folder.png — https://commons.wikimedia.org/wiki/File:Crystal_Project_Folder.png
+- home.png — https://commons.wikimedia.org/wiki/File:Crystal_Project_Agt_home.png
+- skills.png — https://commons.wikimedia.org/wiki/File:Crystal_Project_Agt_education.png
+
+The original PNG files are used unchanged. CSS applies display scaling, glow and reflections only.
+Visual research reference: https://frutigeraeroarchive.org/resources

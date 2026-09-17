@@ -1,0 +1,10 @@
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 2.1, February 1999
+
+The Crystal Project icons included with this portfolio are distributed under
+the GNU Lesser General Public License version 2.1 or any later version.
+
+Read the complete license at the official GNU page:
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+This file is a local reference. The official page contains the complete terms.
